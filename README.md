@@ -41,4 +41,5 @@ Power BI para elaboração de visualizações, dashboards interativos e apresent
 
 Senso crítico é indispensável quando você é analista, nenhuma informação deve ser passada adiante sem ser conferida e compreendida.
 >A informação errada é pior que a falta de informação
+
 Sempre digo isso, mas nunca uso como desculpa para demora na entrega de uma informação importante, afinal, é possível ser efetivo e ágil
