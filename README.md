@@ -1,8 +1,8 @@
 # Informações básicas
 Olá! Meu nome é Lucas Ferreira (Gato Analista), 
 sou analista de negócios, 
-formado em contabilidade e pós-graduado em Business intelligence, Big data e Analytics
-estou aprendendo, utilizando e me aperfeiçoando em Python como ferramenta de trabalho para minhas analises e projetos particulares, 
+formado em contabilidade e pós-graduado em Business intelligence, Big data e Analytics.
+Estou aprendendo, utilizando e me aperfeiçoando em Python como ferramenta de trabalho para minhas analises e projetos particulares, 
 sou fascinado por análise de dados, amo cada etapa do processo de ETL.
 
 ## Soft Skills
