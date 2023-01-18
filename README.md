@@ -43,3 +43,5 @@ Senso crítico é indispensável quando você é analista, nenhuma informação 
 >A informação errada é pior que a falta de informação
 
 Acredito fortemente que é melhor estar desinformado do que possuir informações falsas
+
+[![An image of @gatoanalista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gatoanalista)](https://holopin.io/@gatoanalista)
