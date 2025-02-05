@@ -40,6 +40,3 @@ Excel com fundamentos em banco de dados para organização e análise de dados;
 Power BI para elaboração de visualizações, dashboards interativos e apresentações;
 
 Senso crítico é indispensável quando você é analista, nenhuma informação deve ser passada adiante sem ser conferida e compreendida.
->A informação errada é pior que a falta de informação
-
-Acredito fortemente que é melhor estar desinformado do que possuir informações falsas
